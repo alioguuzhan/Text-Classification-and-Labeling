@@ -1,0 +1,16 @@
+Tespit Raporu
+==================================================
+Kategori: TC_Kimlik_No, Tespit Edilen: 98765432100, Etiket: Çok Kritik
+Kategori: E_posta, Tespit Edilen: ayse.kaya@outlook.com, Etiket: Az Kritik
+Kategori: IBAN, Tespit Edilen: TR450020009876543212345678, Etiket: Çok Kritik
+Kategori: Pasaport, Tespit Edilen: B98765432, Etiket: Çok Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Ayşe Kaya, Etiket: Az Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Ankara Koleji, Etiket: Az Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Ayşe Hanım, Etiket: Az Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Hacettepe Üniversitesi İktisat, Etiket: Az Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Kimlik Numarası, Etiket: Az Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Adresi Göl
+Sokak, Etiket: Az Kritik
+Kategori: Ad_Soyad, Tespit Edilen: Ayşe Kaya, Etiket: Az Kritik
+==================================================
+Rapor Sonu
