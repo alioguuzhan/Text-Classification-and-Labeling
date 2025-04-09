@@ -13,7 +13,7 @@ FORENTRACK, PDF, Word, Excel ve görsel (OCR) dosyaları üzerinde metin taramas
 
 | Ana Ekran | Sonuç Kaydedildi | Kritik Veri Uyarısı |
 |----------|------------------|----------------------|
-| ![UI](docs/ui_APP.jpeg) | ![Saved](docs/ui_APP-1.jpeg) | ![Warning](docs/ui_Alert.jpeg) |
+| ![UI](docs/APP.jpeg) | ![Saved](docs/APP-1.jpeg) | ![Warning](docs/Alert.jpeg) |
 
 
 ## 🧪 Kullanılan Teknolojiler
